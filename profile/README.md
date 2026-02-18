@@ -1,5 +1,23 @@
 ## 🌊 Welcome Back
+### 🔖 Core Philosophical Commitments
+### 🪀 Low Fidelity Models
+1. Interpretiblity above all else.
+2. Simplicity and parsimony (KISS)
+3. Physics first, data second.
+4. Sing-develepor feasibility
+5. Aesthetically cohererent, publishable, and portfolio-friendly
+6. 4. No content for content's sake (save that for Zettelkasten)
 
+
+### 🪩 High Fidelity Models
+1. Low fidelity core commitments
+2. Scalable
+3. Practical
+   - scientific value
+   - computationally efficient
+4. Explicit Symmetry Encoding
+
+## References
 <!--
 
 **Here are some ideas to get you started:**
