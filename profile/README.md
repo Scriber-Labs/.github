@@ -1,19 +1,6 @@
 # 🌊 Welcome Back
 
 ---
-
-## 🪀 Project 1: [`lf-pinn-harmonic-oscillator`](https://github.com/Scriber-Labs/lf-pinn-harmonic-oscillator)
-### 🏡 Take-Home Messages:
-> Physics residual minimization does got guarantee physical inveriants unless sampling resolves the solution spectrum. This is a manifestation of **spectral bias**.
-
-> Residual minimization approximates the operator constraint, but conservation emerges from the generator s tructure. If the generator isnt structurally preserved (via sampling or architecture), invariants drift even under converged optimization.
-> - This connects spectral bias in neural nets to...
->    - Nyquist sampling theory
->    - Hamiltonian structure
->    - Conservation Laws
->    - PINN failure modes
-
----
 ### 🔖 Core Philosophical Commitments
 ### 🪀 Low Fidelity Models
 1. Interpretiblity above all else.
@@ -31,6 +18,21 @@
    - scientific value
    - computationally efficient
 4. Explicit Symmetry Encoding
+
+
+---
+
+## 🪀 Project 1: [`lf-pinn-harmonic-oscillator`](https://github.com/Scriber-Labs/lf-pinn-harmonic-oscillator)
+### 🏡 Take-Home Messages:
+> Physics residual minimization does got guarantee physical inveriants unless sampling resolves the solution spectrum. This is a manifestation of **spectral bias**.
+
+> Residual minimization approximates the operator constraint, but conservation emerges from the generator s tructure. If the generator isnt structurally preserved (via sampling or architecture), invariants drift even under converged optimization.
+> - This connects spectral bias in neural nets to...
+>    - Nyquist sampling theory
+>    - Hamiltonian structure
+>    - Conservation Laws
+>    - PINN failure modes
+
 
 
 ---
