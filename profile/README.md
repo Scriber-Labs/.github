@@ -1,23 +1,19 @@
 # 🌊 Welcome Back
 
+Scriber Labs develops educational and research-oriented computational models for exploring how structure and dynmaics can be recovered from data.
+
 ---
 ### 🔖 Core Philosophical Commitments
-### 🪀 Low Fidelity Models
-1. Interpretiblity above all else.
-2. Simplicity and parsimony (KISS)
-3. Physics first, data second.
-4. Sing-develepor feasibility
-5. Aesthetically cohererent, publishable, and portfolio-friendly
-6. No content for content's sake (save that for Zettelkasten)
+1. Interpretiblity
+2. Clarity (physics first, data second)
+3. Parsimony
+4. Scalability
+5. Computationally efficient
+6. Practicality (optional for low-fidelity projects and apps/widgets)
+    - scientific value
+    - educational
+7. Sing-develepor feasibility
 
-
-### 🪩 High Fidelity Models
-1. Low fidelity core commitments
-2. Scalable
-3. Practical
-   - scientific value
-   - computationally efficient
-4. Explicit Symmetry Encoding
 
 
 ---
